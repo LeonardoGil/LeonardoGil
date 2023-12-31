@@ -1,10 +1,10 @@
-## **Prazer, Leonardo...** 🐱‍💻💪
+## **Prazer, Leonardo...** 💪🐱‍💻
 
-Sou desenvolvedor Pleno Full-stack a quase 5 anos,  
-E nesse periodo tenho atuado principalmente com tecnologias Dotnet (.NET Framework, .NET Core, ASP.NET, Xamarin, EntityFramework...) e Framework Javascript (VueJS, AngularJS, Angular14).  
-No desenvolvimeno de projetos APIs, Web Pages, Aplicativos, Windows Services, Windows Forms...  
+Sou desenvolvedor Pleno Full-stack tem 5 anos,  
+E nesse periodo tenho atuado principalmente com tecnologias Dotnet (.NET Framework, .NET Core, ASP.NET, Xamarin, EntityFramework...) 
+e Framework Javascript (VueJS, AngularJS, Angular14) no desenvolvimeno de projetos APIs, Web Pages, Aplicativos, Windows Services, Windows Forms...  
 
-### Linguagens e Dados
+### Linguagens
 
 ![CSharp](https://img.shields.io/badge/-CSharp-333333?style=flat&logo=csharp&logoColor=b14e9b)
 ![PowerShell](https://img.shields.io/badge/-PowerShell-333333?style=flat&logo=powershell&logoColor=2596be)
@@ -12,8 +12,13 @@ No desenvolvimeno de projetos APIs, Web Pages, Aplicativos, Windows Services, Wi
 ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
 ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-![SqlServer](https://img.shields.io/badge/-SqlServer-333333?style=flat&logo=sqlserver)
+![SQL](https://img.shields.io/badge/-SQL-333333?style=flat&logo=sql)
+
+### Bancos
+
+![SqlServer](https://img.shields.io/badge/-Sql%20Server-333333?style=flat&logo=sqlserver)
 ![Postgres](https://img.shields.io/badge/-Postgres-333333)
+![Redis](https://img.shields.io/badge/-Redis-333333?style=flat&logo=redis)
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
 
 ### DevOps
