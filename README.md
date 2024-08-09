@@ -2,7 +2,7 @@
 
 Sou desenvolvedor Pleno Full-stack tem 5 anos,  
 E nesse periodo tenho atuado principalmente com tecnologias Dotnet (.NET Framework, .NET Core, ASP.NET, Xamarin, EntityFramework...) 
-e Framework Javascript (VueJS, AngularJS, Angular14) no desenvolvimeno de projetos APIs, Web Pages, Aplicativos, Windows Services, Windows Forms...  
+e Framework Javascript (VueJS, AngularJS, Angular14) no desenvolvimeno de projetos APIs, Web Pages, Serviços... 
 
 ### Linguagens
 
