@@ -1,6 +1,6 @@
 ## **Greetings, I'm Leonardo...** 💪🐱‍💻
 
-- 💻 C# | .NET | PowerShell | Angular | Docker
+- 💻 C# | .NET | PowerShell | Angular | Docker | Azure Devops
 - 🌱 Enhancing my expertise within the .NET ecosystem
 - 🎯 Focused on advancing my skills and knowledge
 - 😂 Enemy of the Breakpoint
